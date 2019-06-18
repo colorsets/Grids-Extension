@@ -1,4 +1,4 @@
-<img src="https://colorsets.com/images/colorsets-logo.png" width="45" alt="Color Sets" />
+<img src="https://colorsets.com/images/colorsets-logo.png" width="30" alt="Color Sets" />
 
 # Color Sets
 
