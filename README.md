@@ -1,4 +1,4 @@
-<img src="https://optimizetoolset.com/images/colorsets-logo.png" width="60" alt="Color Sets" />
+<img src="https://colorsets.com/images/colorsets-logo.png" width="60" alt="Color Sets" />
 
 # Color Sets
 
