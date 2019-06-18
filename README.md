@@ -2,7 +2,7 @@
 
 # Color Sets
 
-👋 Hi! Welcome to Color Sets’ public issue tracker and feature requests repo for our Grids extension.
+👋 Hi! Welcome to Color Sets’ public issue tracker and feature requests repo for our Grids ([Chrome](https://chrome.google.com/webstore/detail/grids-by-color-sets/ohmjbldcfanjibdmbfpdlffhagjedobb)) extension.
 
 
 ## Submitting an issue or feature request
